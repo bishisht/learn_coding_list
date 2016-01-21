@@ -36,6 +36,8 @@
 ### Shell
 [http://www.learnshell.org/]
 
+[http://explainshell.com/]
+
 ### C#
 [http://www.learncs.org/]
 

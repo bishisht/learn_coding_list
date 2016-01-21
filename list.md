@@ -1,34 +1,54 @@
 ##List ordered by Popular Programming Languages of 2015
 ### [http://githut.info/]
 
-### JavaScript
+### JavaScript:
 [http://learn.knockoutjs.com/] -> Learn knockoutjs, JS MVVM framework
+
 [http://www.learn-js.org/]
 
-### Java
+### Java:
 [https://www.learneroo.com]
+
 [http://www.learnjavaonline.org/]
 
-### Python
+### Python:
 [http://www.learnpython.org/]
+
 [https://www.codementor.io/learn-python-online]
+
 [http://interactivepython.org/courselib/static/thinkcspy/index.html]
+
 [http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index]
 
 ### CSS
+
 ### PHP
 [http://www.learn-php.org/]
+
 ### Ruby
 [http://iwanttolearnruby.com/]
+
 ### C++
+
 ### C
 [http://www.learn-c.org/]
+
 ### Shell
 [http://www.learnshell.org/]
+
 ### C#
 [http://www.learncs.org/]
+
 ### Objective-C
+
 ### R
+[http://swirlstats.com/]
+
+[http://tryr.codeschool.com/]
+
+[https://www.udemy.com/introduction-to-r/]
+
+
 ### VimL
 ### Go
 ### Perl
@@ -49,7 +69,7 @@
 ### Rust
 ### PowerShell
 
-####Popular sites for many languages. Check out:
+## Popular sites for many languages. Check out:
 [https://www.codecademy.com/] -> HTML, CSS, JavaScript, jQuery, PHP, Ruby, Python, API
 
 [https://www.codeavengers.com/] -> HTML5, CSS3, JavaScript

@@ -27,6 +27,9 @@
 
 ### Ruby
 [http://iwanttolearnruby.com/]
+[https://www.codecademy.com/learn/ruby]
+[https://rubymonk.com/]
+
 
 ### C++
 
